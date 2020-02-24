@@ -1,0 +1,25 @@
+## Function Description
+
+- users
+  - join
+  - login
+  - logout
+  - edit profile
+  - change password
+  - user detail
+- search
+  - show exercise description
+  - show exercise image
+  - show exercise center geolocation 
+    - connect with Naver Map API as url(=show locations of exercise centers)
+    - show facility amenities
+- exercise
+  - show exercise name
+  - show exercise description
+  - show exercise image 
+  - show exercise video
+- category
+  - show types of exercises on landing page
+  - show category name
+  - show exercise name
+  - show category image as carousel
